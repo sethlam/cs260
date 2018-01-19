@@ -17,8 +17,12 @@ ul {
     background-color: #333;
 }
 
-li {
+li:not(.list) {
     float: left;
+}
+
+.list{
+    float:top:
 }
 
 li a {
